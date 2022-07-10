@@ -1,4 +1,4 @@
-# softarch
+# Instructions
 
 How to deploy the ML model using Docker:
 
