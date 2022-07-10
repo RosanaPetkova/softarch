@@ -4,7 +4,7 @@
 
 1. Make sure you have Docker Desktop installed & Docker engine running
 
-*You can download it from [here](https://www.docker.com/products/docker-desktop/)*--
+*You can download it from [here](https://www.docker.com/products/docker-desktop/)*  
 *Once Docker Desktop app is installed, open it and make sure engine is running:*
 ![image](https://user-images.githubusercontent.com/98345993/178155347-be1a82e5-6ab9-4e65-bc9b-d556f289a132.png)
 
