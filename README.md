@@ -1,6 +1,6 @@
 # Instructions
 
-**How to deploy the ML model using Docker:
+**How to deploy the ML model using Docker:**
 
 1. Make sure you have Docker Desktop installed & Docker engine running
 *+You can download it from https://www.docker.com/products/docker-desktop/ 
