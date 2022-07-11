@@ -9,6 +9,6 @@
 3. Download 'Fruits' folder  from the repository and extract it into a folder of your choice
 4. Using the terminal, go to model\Fruits folder in the directory you just unzipped 'model.zip' file into
 5. Type 'docker-compose up' in the terminal and execute the command
-6. Type 'localhost:8888' in you browser, this will lead you to a Jupyter repository
+6. Open the link from the terminal in you browser, this will lead you to a Jupyter repository
 7. Open 'Model.ipynb' and run the code in the cells
 8. You can predict the label of images in the test_image folder by pasting their path into in filename, custom images can also be added to that folder prior to building the docker image 
