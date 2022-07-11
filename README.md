@@ -12,4 +12,4 @@
 4. Using the terminal, go to model\Fruits folder in the directory you just unzipped 'model.zip' file into
 5. Type 'docker-compose up' in the terminal and execute the command
 6. Type 'localhost:8888' in you browser, open 'Model.ipynb' and run the code in the cells
-7. You can predict the label of images in the test_image folder by pasting their path into in filename
+7. You can predict the label of images in the test_image folder by pasting their path into in filename, custom images can be added to that folder prior to building the docker image 
