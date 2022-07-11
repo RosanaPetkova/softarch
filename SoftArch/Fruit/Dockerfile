@@ -1,6 +1,5 @@
 FROM tensorflow/tensorflow:latest-jupyter
 
-# RUN mkdir /tf
 COPY . /tf
 WORKDIR /tf
 
